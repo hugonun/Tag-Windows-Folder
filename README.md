@@ -1,5 +1,5 @@
 # Tag Windows Folder
-Script to set a tag on a Windows folder
+Script to set a tag on a Windows folder.
 
 ## Introduction
 This script was originally made by Pinjoy in 2-10-2019 on a Google Drive with no license. I have changed it to improve the overall experience and uploaded it to GitHub to keep it maintained.
